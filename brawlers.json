@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Dan Kuso",
+    "description": "Leader of the Awesome Brawlers and partner of Dragonoid.",
+    "age": 16,
+    "active": true,
+    "birthDate": "2007-07-01",
+    "imageUrl": "https://example.com/images/dan.jpg",
+    "team": "Awesome Brawlers",
+    "battleStyles": ["Aggressive", "Strategic"],
+    "bakuganId": 101
+  },
+  {
+    "id": 2,
+    "name": "Shun Kazami",
+    "description": "A calm and highly skilled Ventus brawler.",
+    "age": 16,
+    "active": true,
+    "birthDate": "2007-03-23",
+    "imageUrl": "https://example.com/images/shun.jpg",
+    "team": "Awesome Brawlers",
+    "battleStyles": ["Stealth", "Precision"],
+    "bakuganId": 102
+  },
+  {
+    "id": 3,
+    "name": "Marucho Marukura",
+    "description": "A genius strategist and Aquos brawler.",
+    "age": 15,
+    "active": true,
+    "birthDate": "2008-01-10",
+    "imageUrl": "https://example.com/images/marucho.jpg",
+    "team": "Awesome Brawlers",
+    "battleStyles": ["Tactical", "Support"],
+    "bakuganId": 103
+  },
+  {
+    "id": 4,
+    "name": "Julie Makimoto",
+    "description": "An energetic Subterra brawler with incredible determination.",
+    "age": 16,
+    "active": true,
+    "birthDate": "2007-06-18",
+    "imageUrl": "https://example.com/images/julie.jpg",
+    "team": "Awesome Brawlers",
+    "battleStyles": ["Power", "Defense"],
+    "bakuganId": 104
+  },
+  {
+    "id": 5,
+    "name": "Runo Misaki",
+    "description": "A talented Haos brawler and close friend of Dan.",
+    "age": 16,
+    "active": true,
+    "birthDate": "2007-04-28",
+    "imageUrl": "https://example.com/images/runo.jpg",
+    "team": "Awesome Brawlers",
+    "battleStyles": ["Balanced", "Support"],
+    "bakuganId": 105
+  },
+  {
+    "id": 6,
+    "name": "Alice Gehabich",
+    "description": "A kind and intelligent girl connected to Masquerade.",
+    "age": 17,
+    "active": true,
+    "birthDate": "2006-09-09",
+    "imageUrl": "https://example.com/images/alice.jpg",
+    "team": "Awesome Brawlers",
+    "battleStyles": ["Strategic", "Defensive"],
+    "bakuganId": 106
+  },
+  {
+    "id": 7,
+    "name": "Masquerade",
+    "description": "A mysterious and powerful Darkus brawler.",
+    "age": 18,
+    "active": false,
+    "birthDate": "2005-10-31",
+    "imageUrl": "https://example.com/images/masquerade.jpg",
+    "team": "Doom Dimension",
+    "battleStyles": ["Dark", "Aggressive"],
+    "bakuganId": 107
+  },
+  {
+    "id": 8,
+    "name": "Spectra Phantom",
+    "description": "Leader of the Vexos and partner of Helios.",
+    "age": 19,
+    "active": false,
+    "birthDate": "2004-11-15",
+    "imageUrl": "https://example.com/images/spectra.jpg",
+    "team": "Vexos",
+    "battleStyles": ["Elite", "Offensive"],
+    "bakuganId": 108
+  },
+  {
+    "id": 9,
+    "name": "Mira Fermin",
+    "description": "A brave resistance fighter who opposes the Vexos.",
+    "age": 17,
+    "active": true,
+    "birthDate": "2006-08-07",
+    "imageUrl": "https://example.com/images/mira.jpg",
+    "team": "Resistance",
+    "battleStyles": ["Balanced", "Tactical"],
+    "bakuganId": 109
+  },
+  {
+    "id": 10,
+    "name": "Ace Grit",
+    "description": "A fearless Darkus brawler and member of the Resistance.",
+    "age": 18,
+    "active": true,
+    "birthDate": "2005-02-14",
+    "imageUrl": "https://example.com/images/ace.jpg",
+    "team": "Resistance",
+    "battleStyles": ["Power", "Speed"],
+    "bakuganId": 110
+  }
+]
