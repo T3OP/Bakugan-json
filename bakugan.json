@@ -61,7 +61,7 @@
     "attribute": "Pyrus",
     "powerLevel": 700,
     "legendary": true,
-    "imageUrl": "https://github.com/T3OP/Bakugan-json/blob/main/images/Helios.jpeg"
+    "imageUrl": "https://raw.githubusercontent.com/T3OP/Bakugan-json/refs/heads/main/images/Helios.jpeg"
   },
   {
     "id": 109,
