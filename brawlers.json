@@ -6,7 +6,7 @@
     "age": 16,
     "active": true,
     "birthDate": "2007-07-01",
-    "imageUrl": "https://example.com/images/dan.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/T3OP/Bakugan-json/refs/heads/main/images/Dan.jpeg",
     "team": "Awesome Brawlers",
     "battleStyles": ["Aggressive", "Strategic"],
     "bakuganId": 101
@@ -18,7 +18,7 @@
     "age": 16,
     "active": true,
     "birthDate": "2007-03-23",
-    "imageUrl": "https://example.com/images/shun.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/T3OP/Bakugan-json/refs/heads/main/images/Shun_kazami.jpeg",
     "team": "Awesome Brawlers",
     "battleStyles": ["Stealth", "Precision"],
     "bakuganId": 102
@@ -30,7 +30,7 @@
     "age": 15,
     "active": true,
     "birthDate": "2008-01-10",
-    "imageUrl": "https://example.com/images/marucho.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/T3OP/Bakugan-json/refs/heads/main/images/Marucho.jpeg",
     "team": "Awesome Brawlers",
     "battleStyles": ["Tactical", "Support"],
     "bakuganId": 103
@@ -42,7 +42,7 @@
     "age": 16,
     "active": true,
     "birthDate": "2007-06-18",
-    "imageUrl": "https://example.com/images/julie.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/T3OP/Bakugan-json/refs/heads/main/images/Julie.jpeg",
     "team": "Awesome Brawlers",
     "battleStyles": ["Power", "Defense"],
     "bakuganId": 104
@@ -54,7 +54,7 @@
     "age": 16,
     "active": true,
     "birthDate": "2007-04-28",
-    "imageUrl": "https://example.com/images/runo.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/T3OP/Bakugan-json/refs/heads/main/images/Runo.jpeg",
     "team": "Awesome Brawlers",
     "battleStyles": ["Balanced", "Support"],
     "bakuganId": 105
@@ -66,7 +66,7 @@
     "age": 17,
     "active": true,
     "birthDate": "2006-09-09",
-    "imageUrl": "https://example.com/images/alice.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/T3OP/Bakugan-json/refs/heads/main/images/Alice.jpeg",
     "team": "Awesome Brawlers",
     "battleStyles": ["Strategic", "Defensive"],
     "bakuganId": 106
@@ -78,7 +78,7 @@
     "age": 18,
     "active": false,
     "birthDate": "2005-10-31",
-    "imageUrl": "https://example.com/images/masquerade.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/T3OP/Bakugan-json/refs/heads/main/images/Masquerade.jpeg",
     "team": "Doom Dimension",
     "battleStyles": ["Dark", "Aggressive"],
     "bakuganId": 107
@@ -90,7 +90,7 @@
     "age": 19,
     "active": false,
     "birthDate": "2004-11-15",
-    "imageUrl": "https://example.com/images/spectra.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/T3OP/Bakugan-json/refs/heads/main/images/Spectra.jpeg",
     "team": "Vexos",
     "battleStyles": ["Elite", "Offensive"],
     "bakuganId": 108
@@ -102,7 +102,7 @@
     "age": 17,
     "active": true,
     "birthDate": "2006-08-07",
-    "imageUrl": "https://example.com/images/mira.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/T3OP/Bakugan-json/refs/heads/main/images/mira.jpeg",
     "team": "Resistance",
     "battleStyles": ["Balanced", "Tactical"],
     "bakuganId": 109
@@ -114,7 +114,7 @@
     "age": 18,
     "active": true,
     "birthDate": "2005-02-14",
-    "imageUrl": "https://example.com/images/ace.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/T3OP/Bakugan-json/refs/heads/main/images/Ace.jpeg",
     "team": "Resistance",
     "battleStyles": ["Power", "Speed"],
     "bakuganId": 110
