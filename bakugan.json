@@ -5,7 +5,7 @@
     "attribute": "Pyrus",
     "powerLevel": 450,
     "legendary": true,
-    "imageUrl": "https://example.com/images/dragonoid.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/T3OP/Bakugan-json/refs/heads/main/images/Drago.jpeg"
   },
   {
     "id": 102,
@@ -13,7 +13,7 @@
     "attribute": "Ventus",
     "powerLevel": 400,
     "legendary": true,
-    "imageUrl": "https://example.com/images/skyress.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/T3OP/Bakugan-json/refs/heads/main/images/Skyress.jpeg"
   },
   {
     "id": 103,
@@ -21,7 +21,7 @@
     "attribute": "Aquos",
     "powerLevel": 380,
     "legendary": true,
-    "imageUrl": "https://example.com/images/preyas.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/T3OP/Bakugan-json/refs/heads/main/images/Preyas.jpeg"
   },
   {
     "id": 104,
@@ -29,7 +29,7 @@
     "attribute": "Subterra",
     "powerLevel": 410,
     "legendary": true,
-    "imageUrl": "https://example.com/images/gorem.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/T3OP/Bakugan-json/refs/heads/main/images/Gorem.jpeg"
   },
   {
     "id": 105,
@@ -37,7 +37,7 @@
     "attribute": "Haos",
     "powerLevel": 420,
     "legendary": true,
-    "imageUrl": "https://example.com/images/tigrerra.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/T3OP/Bakugan-json/refs/heads/main/images/Tigrerra.jpeg"
   },
   {
     "id": 106,
@@ -45,7 +45,7 @@
     "attribute": "Darkus",
     "powerLevel": 550,
     "legendary": true,
-    "imageUrl": "https://example.com/images/alpha_hydranoid.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/T3OP/Bakugan-json/refs/heads/main/images/Alpha_Hydranoid.jpeg"
   },
   {
     "id": 107,
@@ -53,7 +53,7 @@
     "attribute": "Darkus",
     "powerLevel": 600,
     "legendary": true,
-    "imageUrl": "https://example.com/images/dual_hydranoid.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/T3OP/Bakugan-json/refs/heads/main/images/Dual_Hydranoid.jpeg"
   },
   {
     "id": 108,
@@ -61,7 +61,7 @@
     "attribute": "Pyrus",
     "powerLevel": 700,
     "legendary": true,
-    "imageUrl": "https://example.com/images/helios.jpg"
+    "imageUrl": "https://github.com/T3OP/Bakugan-json/blob/main/images/Helios.jpeg"
   },
   {
     "id": 109,
@@ -69,7 +69,7 @@
     "attribute": "Subterra",
     "powerLevel": 520,
     "legendary": false,
-    "imageUrl": "https://example.com/images/wilda.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/T3OP/Bakugan-json/refs/heads/main/images/Wilda.jpeg"
   },
   {
     "id": 110,
@@ -77,6 +77,6 @@
     "attribute": "Darkus",
     "powerLevel": 560,
     "legendary": false,
-    "imageUrl": "https://example.com/images/percival.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/T3OP/Bakugan-json/refs/heads/main/images/Percival.jpeg"
   }
 ]
